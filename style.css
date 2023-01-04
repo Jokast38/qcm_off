@@ -1,0 +1,51 @@
+#login{
+    margin-top: 45px;
+    text-align: center;
+    color:  navy;
+
+    
+}
+
+
+.loform{
+    padding: 80px;
+    margin: auto;
+    height: 400px;
+    width: 50%;
+    background: transparent;
+    text-align: center;
+}
+
+
+
+.loform:hover{
+    transition: 1.5s;
+    background-color: rgb(255, 255, 255);
+
+}
+
+.loform .log{
+    background: transparent;
+    width: 50%;
+    height: 40px;
+    border: none;
+    border-bottom: navy solid 1px;
+}
+
+.loform .log:hover{
+    transition: 1.5s;
+    background-color: rgb(255, 255, 255); 
+}
+
+.loform .send{
+    padding: 20px;
+    border: navy solid 1px;
+    border-radius: 5px;
+    background-color: rgb(255, 255, 255); 
+}
+
+.loform .send:hover{
+    color: beige;
+    background-color: navy;
+}
+
